@@ -3,9 +3,9 @@
 
 
 #memberikan nilai (assigment)
-x = 10
-y = 6
-lebar = 13
+x = 29
+y = 5
+lebar = 11
 
 print(x + y + lebar)
 print("nilai dari x =", x)
@@ -16,8 +16,8 @@ print("nilai dari lebar =", lebar)
 # hal hal yang harus di perhatikan dala membuat variabel
 
 bet99 = 9 # tidak boleh di awali dengan angka
-jumlah_hutang = 1000000 # mmenggunakan dua suku kata harus digabungkan dengan _
-jumlah_hutang = 1000000 # mmenggunakan dua suku kata harus digabungkan dengan huruf kapital
+jumlah_hutang = 2000000 # mmenggunakan dua suku kata harus digabungkan dengan _
+jumlah_hutang = 2000000 # mmenggunakan dua suku kata harus digabungkan dengan huruf kapital
 
 # pemanggilan indirect
 z = lebar
@@ -33,9 +33,10 @@ nama = "Arya Alfarizi"
 nim = "25241106"
 kelas = "PTI kelas D"
 status = "Mahasiswa"
+alamat = "Lombok Tengah"
 
 # Menampilkan hasil tugas
 print(f"Nama saya adalah: {nama}")
 print(f"NIM saya adalah: {nim}")
 print(f"Kelas saya adalah: {kelas}")
-print(f"Saya adalah seorang: {status}")
+print(f"Saya adalah seorang: {alamat}")
