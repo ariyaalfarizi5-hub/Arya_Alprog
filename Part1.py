@@ -12,3 +12,4 @@ elif umur == 15 :
     print("anda belum cukup umur")
 elif umur == 75 :
     print("anda sudah bau tanah perbanyak ibadah biar masuk surga")
+print ("Program selesai")
